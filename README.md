@@ -13,12 +13,17 @@ Make sure you have the following installed:
 - npm (Node Package Manager)
 - Phantom Wallet extension installed in your browser
 
+  
+
 ## Setup
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/pk1427/Solana-Dapp.git
 cd Solana-Dapp
+
+### Screenshot
+![image](https://github.com/user-attachments/assets/fea51bf0-6a0e-4e9e-a822-f321d1a54c3f)
 
 ![image](https://github.com/user-attachments/assets/99dc5391-b3fb-40e3-b75b-2846de72e753)
 
